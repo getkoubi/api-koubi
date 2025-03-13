@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "title": "Koubi API",
-    "description": "API for Koubi",
+    "description": "To start using this API, you must first get the BASE_URL and SESSION_ID from Koubi. Reach out to us: raul@getkoubi.com",
     "version": "1.0.0"
   },
   "servers": [
